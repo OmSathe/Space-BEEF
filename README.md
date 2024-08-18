@@ -6,6 +6,6 @@ To play
 - W A S D keys to move
 - left ctrl key to shoot
 
-- **Player two**
+**Player two**
 - Arrow keys to move
 - right ctrl key to shoot
